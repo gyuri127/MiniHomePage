@@ -6,3 +6,10 @@
 -style.md 추가
 
 # 장바구니 
+- style.md 추가
+
+# 서비스 소개 페이지 추가
+- about.md
+-style.md 추가
+
+# 내비게이션 추가
